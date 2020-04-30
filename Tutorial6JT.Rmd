@@ -10,3 +10,8 @@ keep_md: TRUE
 knitr::opts_chunk$set(echo = TRUE, fig.width = 8, fig.height = 8, fig.align = "center", fig.path = "FiguresTut6")
 ```
 
+```{r}
+library(tidyverse)
+library(gridExtra)
+```
+

@@ -1,0 +1,12 @@
+---
+title: "Tutorial 6"
+author: "Yuheng Cui"
+date: "4/30/2020"
+output: html_document
+---
+
+```{r setup}
+knitr::opts_chunk$set(echo = TRUE, fig.width = 8, fig.height = 8, fig.alig = "center")
+
+```
+

@@ -1,0 +1,12 @@
+---
+title: "Tutorial6: Collaborating with others"
+author: "Justin Thomas"
+output:
+      html_document
+keep_md: TRUE
+---
+
+```{r}
+knitr::opts_chunk$set(echo = TRUE, fig.width = 8, fig.height = 8, fig.align = "center", fig.path = "FiguresTut6")
+```
+
